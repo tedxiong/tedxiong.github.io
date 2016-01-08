@@ -2,7 +2,7 @@
 title: "在线资源"
 bg: orange
 color: black
-fa-icon: internet-explorer
+fa-icon: html5
 ---
 
 ## Setup as user homepage
