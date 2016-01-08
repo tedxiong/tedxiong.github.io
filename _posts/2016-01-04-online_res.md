@@ -1,8 +1,8 @@
 ---
-title: "官方文档"
+title: "在线资源"
 bg: orange
 color: black
-fa-icon: file-text
+fa-icon: internet-explorer
 ---
 
 ## Setup as user homepage

@@ -1,8 +1,8 @@
 ---
-title: "video"
+title: "组织团队"
 bg: turquoise
 color: white
-fa-icon: film
+fa-icon: git
 ---
 
 Having an **embedded media** (photos and video) is often inflexible with a dynamic and **responsive design**.
@@ -12,7 +12,7 @@ Having an **embedded media** (photos and video) is often inflexible with a dynam
 
 {% highlight html linenos=table %}
 <div class="icontain">
-  <iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe>
+  <iframe src="http://player.youku.com/player.php/sid/XMTM5MTI3ODc0OA==/v.swf" allowfullscreen></iframe>
 </div>
 {% endhighlight %}
 
