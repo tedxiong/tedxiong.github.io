@@ -5,19 +5,17 @@ color: white
 fa-icon: git
 ---
 
-Having an **embedded media** (photos and video) is often inflexible with a dynamic and **responsive design**.
+读书务在循序渐进；一书已熟，方读一书，勿得卤莽躐等，虽多无益。　——胡居仁
 
-### Embed your video like this:
-{: .left}
+---
 
-{% highlight html linenos=table %}
-<div class="icontain">
-  <iframe src="http://player.youku.com/player.php/sid/XMTM5MTI3ODc0OA==/v.swf" allowfullscreen></iframe>
-</div>
-{% endhighlight %}
+### 2015-2016年读书计划清单  
+- Android应用UI设计模式`100%` 
+- 群山回唱`50%`
+- Android群英传`50%`
+- 大话设计模式`30%`
+- Head First 设计模式`20%`
+- 深入理解Java虚拟机`10%`
+- Android应用性能优化`0%`
 
-It'll play like this funny video below! Try resizing the page!
-
-Photo layouts are also really cool and dynamically resizable. Check out the photos/gallery section at [magiciansanfrancisco.com](http://magiciansanfrancisco.com) for a demo and see [the source code](https://github.com/strongrobert/MagicianSanFrancisco) for how.
-
-<div class="icontain"><iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe></div>
+### 最重要的是要放下浮躁，静心读书。
