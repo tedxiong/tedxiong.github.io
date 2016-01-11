@@ -1,8 +1,7 @@
-
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Copyright © Ted xiong-wei@hotmail.com 2016 
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+友情链接 [Ted‘s Blog](http://tedcoder.com/)
 &mdash;
-this site is [open source]({{ site.source_link }})
+[网站主题](https://github.com/t413/SinglePaged)
+
 
