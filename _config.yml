@@ -18,7 +18,7 @@ highlighter: pygments
 title:       "Android 加油站"
 keywords:    "Android, Resource, Open Source, Share"
 description: "An Android Grocery Store"
-source_link: "https://github.com/xiongwei-git/TedXiongBlog"
+source_link: "https://github.com/tedxiong/tedxiong.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-71746678-1 ## put YOUR key here to enable tracking! (blank to disable)
