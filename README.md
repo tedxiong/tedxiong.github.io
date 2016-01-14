@@ -2,15 +2,8 @@ Android加油站
 ======================
 
 ### *不积跬步,无以至千里；不积小流,无以成江海.*
-{: .text-purple}
-
-<span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
-  <i class="fa fa-circle fa-stack-2x text-white"></i>
-  <i class="fa fa-truck fa-stack-1x text-orange"></i>
-</span>
 
 ## 其实我也就是一个代码搬运工，一个不合格的轮子制造师
-{: .text-purple}
 
 >  该站点的主要目的是搜集`Android`相关的资料，取代传统的技术类书签。欢迎各位朋友提供内容，扩充加油站。让更多对Android感兴趣的人能从本站得到所需要的内容。  
 
